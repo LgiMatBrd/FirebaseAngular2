@@ -19,11 +19,11 @@ export const environment = {
     // ***********************************************************************************************************************
     // * TODO(DEVELOPER): Update values according to: Firebase Console > Overview > Add Firebase to your web app. *
     // ***********************************************************************************************************************
-    apiKey: '',
-    authDomain: '',
-    databaseURL: '',
-    projectId: '',
-    storageBucket: '',
-    messagingSenderId: ''
+    apiKey: "AIzaSyDbOdquPUxqn2LG4UX1PzJRZf3JNPeUNmY",
+    authDomain: "doutorsofa-f1a90.firebaseapp.com",
+    databaseURL: "https://doutorsofa-f1a90.firebaseio.com",
+    projectId: "doutorsofa-f1a90",
+    storageBucket: "doutorsofa-f1a90.appspot.com",
+    messagingSenderId: "515017231320"
   }
 };
